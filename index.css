@@ -1,0 +1,25 @@
+.link { 
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: transparent;
+  color: #777;
+}
+
+.navbar-header {
+    float: none;
+}
+
+.navbar-toggle {
+    display: block;
+    float: left;
+    margin-left: 15px;
+}
+
+.page {
+	display: none;
+}
+
+.video {
+	max-width: 750px;
+	height: auto;
+}
