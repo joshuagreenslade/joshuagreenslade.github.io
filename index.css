@@ -19,7 +19,13 @@
 	display: none;
 }
 
-.video {
-	max-width: 750px;
-	height: auto;
+.textVideo {
+	align-items: center;
+	padding-left: 0px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+h1 {
+	padding-bottom: 20px;
 }
