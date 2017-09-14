@@ -26,6 +26,14 @@
 	padding-bottom: 20px;
 }
 
+.topVideo {
+  padding-bottom: 20px;
+}
+
+.embed-responsive-1by1 {
+  padding-bottom: 100%;
+}
+
 h1 {
 	padding-bottom: 20px;
 }
