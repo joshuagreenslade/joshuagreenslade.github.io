@@ -1,0 +1,10 @@
+---
+title: Human-Computer Interaction
+layout: default
+---
+
+<p class="col-md-10 col-md-offset-1">In this class I learned how to evaluate the interaction between humans and computers, specifically computer programs. I also learned about the proper design process to go through when creating an application, specifically ways to gather user requirements, designing, prototyping, evaluating, and then redesigning. During the class we talked about low-fidelity prototypes like paper prototypes, and high-fidelity prototypes like prototypes produced by software such as <a href="https://balsamiq.com/">Balsamiq</a> or <a href="https://www.justinmind.com/">JustInMind</a>. We also talked about the different ways to evaluate the interaction between an application and its users and how to use this information to improve an application. Another very important topic that we covered about was making your app accessible by giving the users options to modify the frontend of the application to suit their needs, such as; larger text, larger buttons, a different colour scheme, text to speech, etc.</p>
+
+<p class="col-md-10 col-md-offset-1">In the class there was a project, where, in groups, we were to create a basic prototype for a new design of an existing app. My group and I decided to upgrade the UTSC Mobile app to make it more appealing and user friendly. The prototype we created can be downloaded from <a href="https://github.com/joshuagreenslade/C10BravoTeam">github</a>. The prototype shows a design that is more organized and less cluttered, as well as some accessibility options that we thought would be a good idea. It also provides a search bar as well as a collapsible menu. During the process of designing the prototype we conducted a usability study to make sure that we were making improvements that made sense and that the users actually wanted.</p>
+
+<p class="col-md-10 col-md-offset-1">In the end, this class taught me how to properly design an app and the process that needs to be followed to do it effectively. It also taught me how important it is to make an application accessible to everyone, regardless of their abilities.</p>

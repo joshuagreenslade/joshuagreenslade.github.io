@@ -1,0 +1,6 @@
+---
+title: Introduction to Databases
+layout: default
+---
+
+<p class="col-md-10 col-md-offset-1">In this class we talked about relational algebra, database management and SQL databases. The main topics were how to structure SQL queries to retrieve certain data and how to structure databases in order to have fast and efficient retrieval of data. This class taught me about how to use relational databases and how to use relational algebra to query the data as well as how to use MySQL. This involved when to use certain operations over others, like joins and Cartesian products. In this class my group and I developed an application that used an SQL database, this allowed us to demonstrate what we learned and showed me how important it is to properly structure a database system so it is easy to extract information from it. Unfortunately, I do not have permission to share this application. I believe that, with the knowledge gained from this class, I will be able to use SQL databases, along with NoSQL databases, in other applications that I may be involved with in the future.</p>

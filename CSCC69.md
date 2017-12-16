@@ -1,0 +1,6 @@
+---
+title: Operating Systems
+layout: default
+---
+
+<p class="col-md-10 col-md-offset-1">In this class we learned about how operating systems work and the different layers that they have. We also talked about concurrency problems that arise when an operating system uses multithreading and the possible solutions to those problems, mainly locks and Semaphores. We demonstrated our knowledge of these topics and others that we learned in the class in three assignments where we added upgrades to OS161, a basic operating system. Each assignment focused on different parts of an operating system, where we improved on the basic implementation in OS161, the main topics were processes and scheduling, virtual memory, and file systems. The code for each assignment can be found on <a href="https://github.com/joshuagreenslade/CSCC69">github</a>. This class showed us how much work an operating system does in order to improve performance as well as how it hides all of the work it does from the user to make it appear to execute commands instantaneously. In the class we also learned how to efficiently search through an existing codebase to find where to implement our changes. It also helped us to learn more about using pointers and data structures in C. </p>

@@ -1,0 +1,11 @@
+to test locally need to run the following command in bash
+
+jekyll serve
+
+then to view go to localhost:4000
+
+the html files are in the _site folder, which are created by combining default.html with the appropriate .md file (ex. CSCC09.md combined with default.html creates CSCC09.html)
+
+parts of the html document that are common to several documents can be included with a {% include __ %} command (eg. {% include navigation.html %}
+
+useful jekyll info at https://jekyllrb.com/tutorials/convert-site-to-jekyll/
