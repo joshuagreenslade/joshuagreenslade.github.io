@@ -16,5 +16,3 @@ layout: default
 <p class="col-md-10 col-md-offset-1">The rainbow effect under the transparent sphere that was rendered with the path tracer above would not occur so easily with the ray tracer; it would require some modifications to the Phong model and still would not look as nice. This is one of the many sacrifices that ray tracers make to improve rendering speed.</p>
 
 <p class="col-md-10 col-md-offset-1">Overall this class has shown me that there is a lot of work that goes in to making realistic images, let alone CGI videos and that there is a constant trade off between performance and accuracy. It also showed me some of the optimizations that are done, such as multithreading and creative memory allocation, that can be accomplished when coding in C, once again showing me some of the advantages of coding in C.</p>
-
-<script src="image_resize.js"></script>

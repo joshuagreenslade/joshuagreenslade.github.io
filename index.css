@@ -35,6 +35,10 @@
   padding-right: 15px;
 }
 
+#navbar-collapse {
+   overflow-y: scroll;
+}
+
 h1 {
 	padding-bottom: 20px;
 }
