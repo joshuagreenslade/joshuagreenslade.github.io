@@ -7,6 +7,7 @@ window.onresize = function(){
 
 	//shrink the navbar if it is too long
 	navbar.style.maxHeight = max_height + 'px';
+	navbar.style.overflowY = 'scroll';
 
 	//shrink the images if they are too tall
 	for(var i=0; i<images.length; i++){
